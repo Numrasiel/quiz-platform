@@ -26,3 +26,5 @@ testem.log
 
 # Local Only
 /**/*.local.ts
+/.firebasec
+/.firebase/*
